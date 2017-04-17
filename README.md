@@ -7,5 +7,5 @@ Spontaneous Abortion Data with a Cured Proportion and Biased Sampling". Biostati
 
 (1) myfunction: R file contians functions used to implement the proposed method and naive method. 
 
-(2) example_data.txt: example data file. 
+(2) example_data: example data file. 
   
